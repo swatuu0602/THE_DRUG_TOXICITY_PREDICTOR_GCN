@@ -18,4 +18,7 @@ Performance Metrics:
 "Our model has shown a high accuracy of 90% in predicting toxic compounds, meaning it correctly identifies 90 out of 100 toxic compounds. More importantly, it has a recall of 85%, ensuring that we don’t miss out on identifying potentially harmful drugs."
 
 HOMEPAGE(THE_DRUG_TOXICITY_PREDICTOR_AI)
+https://github.com/swatuu0602/THE_DRUG_TOXICITY_PREDICTOR_GCN/blob/main/Screenshot%20from%202024-07-11%2016-48-07.png
+TOXICITY_PREDICTOR.AI
+
 
