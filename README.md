@@ -25,6 +25,9 @@ TOXICITY_PREDICTOR.AI
 
 ![Screenshot from 2024-07-11 16-33-14](https://github.com/swatuu0602/THE_DRUG_TOXICITY_PREDICTOR_GCN/assets/100605529/0871dee3-54cf-4e14-8548-757ed5654c58)
 
+TOXICITY_PREDICTOR.AI (PREDICTIONS)
+
+![Uploading Screenshot from 2024-07-11 17-12-46.png…]()
 
 
 
