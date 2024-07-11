@@ -11,8 +11,6 @@ How It Works:
 
 "At the core of our model is a Graph Convolutional Network, or GCN. Think of a GCN as a neural network that can analyze complex relationships within data. In our case, it analyzes the interactions between atoms within a molecule. Each atom is a node, and the bonds between them are edges, forming a graph. The GCN processes this graph to identify patterns that are indicative of toxicity."
 
- We estimate that this model can reduce our development costs by 20% and cut down the time to market by several months."
-
 Performance Metrics:
 
 "Our model has shown a high accuracy of 90% in predicting toxic compounds, meaning it correctly identifies 90 out of 100 toxic compounds. More importantly, it has a recall of 85%, ensuring that we don’t miss out on identifying potentially harmful drugs."
